@@ -1,2 +1,1 @@
-## CSS-Grid
-A practice project to enhance CSS Grid expertise.
+# learn-grid-the-easy-way
